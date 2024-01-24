@@ -1,7 +1,7 @@
-### Hello!
+### Hello! 👋
 
 
-- 🔭 I’m currently working at [Soffia](https://www.soffia.co/) and [Digital College](https://digitalcollege.com.br/).
+- 🤓 I’m currently working at [Soffia](https://www.soffia.co/) and [Digital College](https://digitalcollege.com.br/).
 
 
 <div style="display: inline_block"><br>
